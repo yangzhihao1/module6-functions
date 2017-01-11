@@ -1,17 +1,17 @@
 # Exercise-3: Calling built-in functions
 
 # Create a variable `my.name` that contains your name
-
+my.name <- "SAM"
 
 # Create a variable `name.length` that holds how many letters are in your name (use the `nchars()` function)
-
+name.length<- nchar("SAM")
 
 # Print the number of letters in your name
-
+print(name, length)
 
 # Create a variable `now.doing` that is your named followed by "is programming!" to the end of your name
 # (use the `paste()` function)
-
+now.doing<-paste
 
 # Make the `now.doing` variable upper case
 
